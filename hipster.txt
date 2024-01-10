@@ -1,0 +1,11 @@
+People also ask
+How do I open Notepad in Linux?
+To open a text editor similar to Notepad on Linux, you can use a program called "Pluma" in the MATE desktop environment, or "Gedit" in the GNOME desktop environment.31 Oct 2021
+
+How to open Notepad on Linux - Quora
+
+Quora
+https://www.quora.com › How-do-I-open-Notepad-on-Li...
+Search for: How do I open Notepad in Linux?
+How do I open a text file in Linux?
+In Linux, we can display various file formats such as text file, audio files, video, image, doc, pdf, or any other file contents. Open the file using cat command. Open the file using less command. Open the file using more command.
